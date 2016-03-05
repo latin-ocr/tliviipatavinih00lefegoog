@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih00lefegoog_0491.png"; bbox 0 0 730 1350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 322 640 359 842">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 322 567 359 842">
+     <span class='ocr_line' id='line_1_1' title="bbox 322 640 359 842; baseline -30.556 305.556"><span class='ocrx_word' id='word_1_1' title='bbox 331 640 346 689; x_wconf 44' lang='grc' dir='ltr'><em>,ἓξ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 335 705 347 724; x_wconf 67' lang='grc'><em>4.,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 322 737 359 842; x_wconf 31' lang='lat' dir='ltr'><em>&#39;‘vd-»r</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 730 1350">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 730 1350">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 730 1350"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 730 1350; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
